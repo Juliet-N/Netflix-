@@ -10,8 +10,10 @@ The aim of this analysis was to checkout the trends in Netflix over the years, c
 I used power Bi for this analysis and the pdf file can be downloaded above.
 
 - Insights From the Analsis
+<p align="center">
+  <img width="600" height="200" src="[https://github.com/Juliet-N/Netflix-/blob/main/Netflix.png)]">
+</p>
 
-![alt txt](https://github.com/Juliet-N/Netflix-/blob/main/Netflix.png)
 
 - Netflix started becoming popular at the year 2000.
 - More contents on Netflix are more of adult contents for both movies and Tv series.
