@@ -11,7 +11,7 @@ I used power Bi for this analysis and the pdf file can be downloaded above.
 
 - Insights From the Analsis
 <p align="center">
-  <img width="600" height="200" src="![alt txt](https://github.com/Juliet-N/Netflix-/blob/main/Netflix.png)">
+  <"![alt txt](https://github.com/Juliet-N/Netflix-/blob/main/Netflix.png)">
 </p>
 
 
