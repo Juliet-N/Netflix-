@@ -10,7 +10,7 @@ The aim of this analysis was to checkout the trends in Netflix over the years, c
 I used power Bi for this analysis and the pdf file can be downloaded above.
 
 - Insights From the Analsis
-<center>
+<p align="center">
   <img src="(https://github.com/Juliet-N/Netflix-/blob/main/Netflix.png)">
 </center>
 
