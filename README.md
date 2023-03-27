@@ -1,4 +1,5 @@
 # Netflix-
+![alt txt](https://github.com/Juliet-N/Netflix-/blob/main/Netflix.png)
 The aim of this analysis was to checkout the trends in Netflix over the years, check out for the type of contents contained in netflix, ratings, what country's production is popular in Netflix, is there are popular director who has more of his/her movies on netfix? These and more where what i aim to find out during this anaysis.
 I used power Bi for this analysis and the pdf file can be downloaded above.
 - Summary Of Findings;
