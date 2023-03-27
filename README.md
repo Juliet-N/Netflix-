@@ -1,5 +1,5 @@
 # Netflix-
-![alt txt](https://github.com/Juliet-N/Netflix-/blob/main/netflix-image.png)
+![alt txt](https://github.com/Juliet-N/Netflix-/blob/main/netflix1.jpg)
 
 ## Case Study
 
