@@ -7,7 +7,7 @@
 ### Background Knowlede and Data set.
 Netflix brand which includes oirginal movies and series is a leadng streaming platform in the world. Netflix introdued streaming media and video on demand. he company expanded to Canada in 2010, followed by Latin America and the Caribbean. In 2011, the service began to acquire and produce original content, beginning with the political drama House of Cards. By 2022, original productions accounted for half of Netflix's library in the United States, and the company had ventured into other categories, such as video game publishing via the Netflix service according to wikipedia. The dataset contains 12 columns and 8800 rows. 
 
-###Aim of study
+### Aim of study
 
 The aim of this analysis was to 
 - Identify the trends of  Netflix over the years. 
