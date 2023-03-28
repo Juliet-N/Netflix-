@@ -20,17 +20,21 @@ The aim of this analysis was to
 I used power Bi for this visualization of this project. The data was loaded into Excel where I cleaned and checked for duplicates beffore loading into power Bi.
 
 ## Insights From the Analysis
-- 
+- The Dashboard
+
 <p align="center">
    <img src="https://github.com/Juliet-N/Netflix-/blob/main/Netflix.png">
 </center>
-
 
 - Netflix started becoming popular from the year 2000 and this popularity grew over the years but we can see a decline in popularity in recent time.
 - More contents on Netflix are  adult contents rated MA for both movies and Tv series which contributed the growth.
 - United states has produced more movies than every other country in the world.
 - There more movies than TV series on netflix.
 - Drama is the highest content onNetflix.
+
+## Conclusions and Adivce
+
+There are more aldt contens on Netflix reason for the popularity. This contributed to the increase  popularity in 2000 and a decline in 2020, this decine maybe caused by the springing up of other streaming platforms or this can be due to the subscriptions rate which can further be looked into. More counties movie especially from Africa, should be supported and allowed to premier their movies on the platform, this will further increase popularity and encorage more diversity.
 
 
 
