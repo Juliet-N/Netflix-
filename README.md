@@ -34,7 +34,7 @@ I used power Bi for this visualization of this project. The data was loaded into
 
 ## Conclusions and Adivce
 
-There are more aldt contens on Netflix reason for the popularity. This contributed to the increase  popularity in 2000 and a decline in 2020, this decine maybe caused by the springing up of other streaming platforms or this can be due to the subscriptions rate which can further be looked into. More counties movie especially from Africa, should be supported and allowed to premier their movies on the platform, this will further increase popularity and encorage more diversity.
+There are more aldt contents on Netflix reason for the popularity. This contributed to the increase  popularity in 2000 and a decline in 2020, this decine maybe caused by the springing up of other streaming platforms or this can be due to the subscriptions rate which can further be looked into. More counties movie especially from Africa, should be supported and allowed to premier their movies on the platform, this will further increase popularity and encorage more diversity.
 
 
 
