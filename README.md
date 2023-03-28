@@ -15,19 +15,22 @@ The aim of this analysis was to
 - The ratings of contents that made Netflix so popular.
 - Popular director who has more of his/her movies on netfix? 
 
-### Tools Used for this analysis
+### Process
 
-I used power Bi for this analysis and the pdf file can be downloaded above.
+I used power Bi for this visualization of this project. The data was loaded into Excel where I cleaned and checked for duplicates beffore loading into power Bi.
 
-- Insights From the Analsis
+## Insights From the Analysis
+- 
 <p align="center">
    <img src="https://github.com/Juliet-N/Netflix-/blob/main/Netflix.png">
 </center>
 
 
 - Netflix started becoming popular from the year 2000 and this popularity grew over the years but we can see a decline in popularity in recent time.
-- More contents on Netflix are more of adult contents for both movies and Tv series which contributed the growth.
+- More contents on Netflix are  adult contents rated MA for both movies and Tv series which contributed the growth.
 - United states has produced more movies than every other country in the world.
 - There more movies than TV series on netflix.
+- Drama is the highest content onNetflix.
+
 
 
