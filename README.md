@@ -32,9 +32,9 @@ I used power Bi for this visualization of this project. The data was loaded into
 - There more movies than TV series on netflix.
 - Drama is the highest content onNetflix.
 
-## Conclusions and Adivce
+## Conclusion
 
-There are more aldt contents on Netflix reason for the popularity. This contributed to the increase  popularity in 2000 and a decline in 2020, this decine maybe caused by the springing up of other streaming platforms or this can be due to the subscriptions rate which can further be looked into. More counties movie especially from Africa, should be supported and allowed to premier their movies on the platform, this will further increase popularity and encorage more diversity.
+There are more adult contents on Netflix, hence the reason for the increase popularity in 2000 and a decline in 2020, this decline maybe caused by the springing up of other streaming platforms, this may also be due to  subscriptions fee. These hypothesis can be investigated. More counties movies especially from Africa, should be supported and allowed to premier on the platform, this will further increase popularity and encourage more diversity from those region.
 
 
 
